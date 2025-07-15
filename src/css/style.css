@@ -1,0 +1,41 @@
+body header {
+  background: linear-gradient(to right, #ff0080, #7928ca, #2afadf);
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  margin-bottom: 200px;
+}
+
+main div form {
+  background-color: #ffffff;
+}
+
+#backForm {
+  background: linear-gradient(to right, #ff0080, #7928ca, #2afadf);
+}
+
+main section a {
+  font-size: 12px;
+}
+
+footer ul li a {
+  font-size: 12px;
+  color: rgb(141, 141, 141);
+}
+
+footer h6 {
+  font-size: 12px;
+  color: rgb(141, 141, 141);
+}
+
+footer h6 strong {
+  color: rgb(183, 183, 183);
+}
